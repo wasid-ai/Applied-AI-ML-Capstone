@@ -1,0 +1,6 @@
+Model,Accuracy
+Voting Classifier,0.8501843884449908
+Bagging,0.8540258143822987
+AdaBoost,0.8572526121696373
+Gradient Boosting,0.8666256914566687
+Best Random Forest,0.8627842655193608

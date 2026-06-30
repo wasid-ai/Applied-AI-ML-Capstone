@@ -1,0 +1,18 @@
+{
+    "Model Performance": {
+        "Best Model": "Random Forest",
+        "Accuracy": 0.8628
+    },
+    "Dataset Information": {
+        "Rows": 32537,
+        "Columns": 15,
+        "Target": "income"
+    },
+    "Prediction Capability": {
+        "Task": "Income Classification",
+        "Classes": [
+            "<=50K",
+            ">50K"
+        ]
+    }
+}
