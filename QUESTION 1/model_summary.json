@@ -1,0 +1,8 @@
+{
+    "dataset": "Adult Census Income Dataset",
+    "target_variable": "income",
+    "best_model": "Random Forest",
+    "accuracy": 0.8627842655193608,
+    "training_samples": 26029,
+    "testing_samples": 6508
+}
