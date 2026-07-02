@@ -1,5 +1,0 @@
-Model,Accuracy
-Logistic Regression,0.8111555009219422
-Decision Tree,0.8111555009219422
-Random Forest,0.8598647818070068
-Pipeline (Logistic Regression),0.8262138905961893
